@@ -1,6 +1,6 @@
 import React from "react";
 import bcrypt from "bcryptjs";
-import Swal from "sweetalert2"; // Import SweetAlert2
+import Swal from "sweetalert2";
 import LoginForm from "../components/LoginForm";
 import { useAuth } from "../context/AuthContext";
 import { mockUsers } from "../data/users";
