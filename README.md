@@ -10,6 +10,7 @@ Languages and Libraries Used (managed by npm):
     6. BcryptJS
     7. React-icons
     8. React-router-dom
+    9. Serve
 
 Project Overview Based on Test Requirements:
     - React JS
@@ -86,4 +87,6 @@ Page Requirements:
             - By clicking the Details button for any user, a modal with the user's detailed information (including email, phone, and address) is displayed.
 
 Conclusion:
-    I have structured the project to meet all the requirements laid out in the test. The application is functional, responsive, and uses mock data to demonstrate login and dashboard capabilities.
+    I have structured the project to meet all the requirements outlined in the test. The application is fully functional, responsive, and uses mock data to demonstrate login and dashboard features.
+
+    Additionally, I have tested the production build and successfully served the project using serve.
